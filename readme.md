@@ -6,8 +6,9 @@ step 2. oepn cmd
 
 step 3. pip install -r requirement --user
 
-step 4. run by following command on CLI 
- - python pybook.py
+step 4. run by following ways
+ - python pydoccap.py in super mode
+ - run the batch file : pydoccap.bat
  
 Trouble Shoot!
  - if page switching is not working, use super user (administrator) 
