@@ -11,7 +11,7 @@ step 4. run by following ways
  - run the batch file : pydoccap.bat
  
 Trouble Shoot!
- - if page switching is not working, use super user (administrator) 
+ - if page switching is not working, use super user  (administrator) 
  - just use pydoccap.batch
  
 utility 
